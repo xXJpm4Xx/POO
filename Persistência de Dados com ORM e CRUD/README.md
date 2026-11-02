@@ -1,7 +1,4 @@
 # Atividade Prática – Persistência de Dados com ORM e CRUD
-Nome: João Pedro Moreira Cavalcante
-
-Matrícula: 202600671
 ## Descrição da Implementação
 Para esta atividade, foi desenvolvida uma simulação de um sistema de estoque de produtos. A classe de modelo escolhida foi a entidade Produto, mapeada para o banco de dados relacional SQLite utilizando o ORMLite.
 
