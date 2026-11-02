@@ -32,15 +32,18 @@ Mensagem no terminal confirmando a abertura do banco de dados.
 O método create foi implementado no repositório para salvar instâncias da classe Produto no banco de dados, utilizando o método dao.create().
 
 ![DVCS](Prints/ProdutoCreate.png)
-  Implementação do método create na classe RepositorioProduto.
+
+Implementação do método create na classe RepositorioProduto.
+
 
 Foram instanciados três produtos (Cereal, Refrigerante e Detergente) no ambiente BlueJ e passados ao repositório para persistência.
 
-Figura 4: Objetos criados em memória no BlueJ prontos para serem salvos.
+![DVCS](Prints/Produtos1.png) 
+
 
 Abaixo, a comprovação visual utilizando o DB Browser for SQLite demonstrando que os três objetos foram convertidos em registros na tabela produto do banco de dados.
 
-Figura 5: Evidência da persistência dos dados, onde os objetos foram efetivamente armazenados no arquivo SQLite.
+![DVCS](Prints/ProdutosSalvos.png) 
 
 ## 2. READ (Consultar objetos cadastrados)
 Foram implementados métodos de leitura para buscar um produto específico pelo seu ID (loadFromId) e para resgatar todos os produtos cadastrados (loadAll).
