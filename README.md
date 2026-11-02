@@ -48,7 +48,6 @@ git commit -m "docs: adiciona estrutura inicial do relatório de atividade"
 # 3. Enviando os commits do repositório local para o GitHub
 git push origin main
 ```
-*(Nota: O nome da branch principal pode ser `main` ou `master`, dependendo da configuração do repositório).*
 
 ![Legenda: Captura de tela do terminal mostrando a execução sequencial dos comandos "git add", "git commit" e "git push".](caminho/para/sua_imagem_commit_push.png)
 
