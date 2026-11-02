@@ -45,7 +45,8 @@ Abaixo, a comprovação visual utilizando o DB Browser for SQLite demonstrando q
 ## 2. READ (Consultar objetos cadastrados)
 Foram implementados métodos de leitura para buscar um produto específico pelo seu ID (loadFromId) e para resgatar todos os produtos cadastrados (loadAll).
 
-Figura 6: Implementação dos métodos de leitura e listagem.
+![DVCS](Prints/ProdutoRead.png)
+
 
 A execução do método loadAll() retorna um ArrayList<Produto> preenchido com as informações extraídas do banco de dados, reconstruindo os objetos originais.
 
