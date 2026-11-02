@@ -1,8 +1,4 @@
 # Atividade Prática – Controle de Versões com Git e GitHub
-
-**Disciplina / Contexto:** Programação Orientada a Objetos (POO)
-**Autor:** [Seu Nome Aqui]
-
 Este documento apresenta o passo a passo e as evidências da atividade prática sobre o uso dos principais recursos de controle de versão utilizando Git e GitHub.
 
 ---
