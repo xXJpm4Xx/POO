@@ -71,8 +71,10 @@ A operação de atualização é acionada ao modificar o estado de um objeto Pro
 ## 4. DELETE (Excluir um objeto)
 O método delete remove o registro correspondente ao objeto passado como parâmetro do banco de dados e também o retira da lista de controle em memória.
 
-Figura 9: Implementação do método delete tratando a remoção através do DAO.
+![DVCS](Prints/ProdutoDelete.png)
 
 Abaixo, a execução prática onde o produto "detergente" é enviado ao método delete do repositório para ser removido permanentemente do estoque.
 
-Figura 10: Chamada do método delete passando o objeto "detergente" para exclusão.
+![DVCS](Prints/deletar.png)
+
+![DVCS](Prints/Ultimo.png)
