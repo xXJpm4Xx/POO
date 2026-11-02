@@ -19,9 +19,8 @@ Ao instanciar a classe Database, o banco de dados ProdutosDb.db é configurado e
 
 ![DVCS](Prints/CriarDb.png)
 
-![DVCS](Prints/Repositorio1.png)
 
-Instância da classe Database apontando para o arquivo "ProdutosDb.db".
+![DVCS](Prints/Repositorio1.png)
 
 
 ![DVCS](Prints/Abriu.png)
@@ -32,8 +31,6 @@ Mensagem no terminal confirmando a abertura do banco de dados.
 O método create foi implementado no repositório para salvar instâncias da classe Produto no banco de dados, utilizando o método dao.create().
 
 ![DVCS](Prints/ProdutoCreate.png)
-
-Implementação do método create na classe RepositorioProduto.
 
 
 Foram instanciados três produtos (Cereal, Refrigerante e Detergente) no ambiente BlueJ e passados ao repositório para persistência.
