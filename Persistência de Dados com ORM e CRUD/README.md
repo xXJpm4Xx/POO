@@ -66,7 +66,7 @@ A operação de atualização é acionada ao modificar o estado de um objeto Pro
 ![DVCS](Prints/Salvar.png)
 
 
-![DVCS](Prints/Tabela.png)
+![DVCS](Prints/tabela.png)
 
 ## 4. DELETE (Excluir um objeto)
 O método delete remove o registro correspondente ao objeto passado como parâmetro do banco de dados e também o retira da lista de controle em memória.
