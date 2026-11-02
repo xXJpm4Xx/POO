@@ -20,10 +20,12 @@ Ao instanciar a classe Database, o banco de dados ProdutosDb.db é configurado e
 ![DVCS](Prints/CriarDb.png)
 
 ![DVCS](Prints/Repositorio1.png)
+
 Instância da classe Database apontando para o arquivo "ProdutosDb.db".
 
 
 ![DVCS](Prints/Abriu.png) 
+
 Mensagem no terminal confirmando a abertura do banco de dados.
 
 ## 1. CREATE (Cadastrar um novo objeto)
