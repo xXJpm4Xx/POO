@@ -14,7 +14,7 @@ tipoProduto (Categoria do item, ex: "Alimento", "Líquido", "Limpeza")
 
 A persistência foi estruturada seguindo o padrão Repository (através da classe RepositorioProduto), que encapsula o DAO fornecido pelo ORMLite. O gerenciamento do banco de dados é feito pela classe Database, criando o arquivo local ProdutosDb.db.
 
-##Inicialização e Conexão com o Banco de Dados
+## Inicialização e Conexão com o Banco de Dados
 Ao instanciar a classe Database, o banco de dados ProdutosDb.db é configurado e a conexão via JDBC é estabelecida com sucesso.
 
 ![DVCS](Prints/Repositorio1.png)
