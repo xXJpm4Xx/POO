@@ -21,7 +21,7 @@ Com o repositório criado remotamente, o próximo passo foi trazê-lo para o amb
 
 **Comando utilizado:**
 ```bash
-git clone https://github.com/SEU_USUARIO/POO.git
+git clone https://github.com/xXJpm4Xx/POO.git
 ```
 
 Após a execução, acessei a pasta do projeto clonado:
