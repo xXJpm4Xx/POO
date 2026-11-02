@@ -35,7 +35,7 @@ cd POO
 
 ## 3. Edição e Versionamento
 
-Nesta etapa, criei um arquivo inicial no repositório (por exemplo, este próprio arquivo `.md` ou um arquivo de código `Exemplo.java`), registrei as alterações e as enviei para o GitHub.
+Nesta etapa, criei um arquivo inicial no repositório `Exemplo.txt`, registrei as alterações e as enviei para o GitHub.
 
 **Comandos utilizados:**
 ```bash
