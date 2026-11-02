@@ -4,13 +4,13 @@ Para esta atividade, foi desenvolvida uma simulação de um sistema de estoque d
 
 A classe Produto contém os seguintes atributos mapeados:
 
-id (Chave primária gerada automaticamente)
+* id (Chave primária gerada automaticamente)
 
-nomeProduto (Nome do item, ex: "Cereal", "Refrigerante", "Detergente")
+* nomeProduto (Nome do item, ex: "Cereal", "Refrigerante", "Detergente")
 
-quantidade (Quantidade em estoque)
+* quantidade (Quantidade em estoque)
 
-tipoProduto (Categoria do item, ex: "Alimento", "Líquido", "Limpeza")
+* tipoProduto (Categoria do item, ex: "Alimento", "Líquido", "Limpeza")
 
 A persistência foi estruturada seguindo o padrão Repository (através da classe RepositorioProduto), que encapsula o DAO fornecido pelo ORMLite. O gerenciamento do banco de dados é feito pela classe Database, criando o arquivo local ProdutosDb.db.
 
