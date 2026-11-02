@@ -17,6 +17,8 @@ A persistência foi estruturada seguindo o padrão Repository (através da class
 ## Inicialização e Conexão com o Banco de Dados
 Ao instanciar a classe Database, o banco de dados ProdutosDb.db é configurado e a conexão via JDBC é estabelecida com sucesso.
 
+![DVCS](Prints/CriarDb.png)
+
 ![DVCS](Prints/Repositorio1.png)
 
 Instância da classe Database apontando para o arquivo "ProdutosDb.db".
