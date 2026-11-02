@@ -23,7 +23,9 @@ Ao instanciar a classe Database, o banco de dados ProdutosDb.db é configurado e
 
 Instância da classe Database apontando para o arquivo "ProdutosDb.db".
 
-Figura 2: Mensagem no terminal confirmando a abertura do banco de dados.
+![DVCS](Prints/Abriu.png) 
+
+Mensagem no terminal confirmando a abertura do banco de dados.
 
 ## 1. CREATE (Cadastrar um novo objeto)
 O método create foi implementado no repositório para salvar instâncias da classe Produto no banco de dados, utilizando o método dao.create().
