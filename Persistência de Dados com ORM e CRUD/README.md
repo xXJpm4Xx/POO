@@ -1,7 +1,7 @@
-#Atividade Prática – Persistência de Dados com ORM e CRUD
+# Atividade Prática – Persistência de Dados com ORM e CRUD
 Repositório GitHub: [Insira a URL do seu repositório aqui]
 
-##Descrição da Implementação
+## Descrição da Implementação
 Para esta atividade, foi desenvolvida uma simulação de um sistema de estoque de produtos. A classe de modelo escolhida foi a entidade Produto, mapeada para o banco de dados relacional SQLite utilizando o ORMLite.
 
 A classe Produto contém os seguintes atributos mapeados:
