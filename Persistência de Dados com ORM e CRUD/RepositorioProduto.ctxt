@@ -1,0 +1,17 @@
+#BlueJ class context
+#Sun Nov 01 17:38:24 BRT 2026
+comment0.target=RepositorioProduto
+comment1.params=database
+comment1.target=RepositorioProduto(Database)
+comment2.params=database
+comment2.target=void setDatabase(Database)
+comment3.params=produto
+comment3.target=Produto create(Produto)
+comment4.params=produto
+comment4.target=void update(Produto)
+comment5.params=produto
+comment5.target=void delete(Produto)
+comment6.params=id
+comment6.target=Produto loadFromId(int)
+comment7.target=java.util.List loadAll()
+numComments=8

@@ -1,0 +1,16 @@
+#BlueJ class context
+#Sun Nov 01 17:23:38 BRT 2026
+comment0.target=Produto
+comment1.target=int getId()
+comment2.params=id
+comment2.target=void setId(int)
+comment3.target=java.lang.String getNomeProduto()
+comment4.params=nomeProduto
+comment4.target=void setNomeProduto(java.lang.String)
+comment5.target=int getQuantidade()
+comment6.params=quantidade
+comment6.target=void setQuantidade(int)
+comment7.target=java.lang.String getTipoProduto()
+comment8.params=tipoProduto
+comment8.target=void setTipoProduto(java.lang.String)
+numComments=9
