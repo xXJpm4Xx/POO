@@ -53,9 +53,20 @@ A execução do método loadAll() retorna um ArrayList<Produto> preenchido com a
 ![DVCS](Prints/Listar.png)
 
 ## 3. UPDATE (Atualizar dados de um objeto existente)
+O método update foi implementado no repositório para salvar mudanças nas instâncias da classe Produto no banco de dados, utilizando o método dao.update().
+
+![DVCS](Prints/ProdutoUpdate.png)
+
+
 A operação de atualização é acionada ao modificar o estado de um objeto Produto já persistido e utilizar o DAO para atualizar a linha correspondente no banco. No exemplo abaixo, a quantidade do produto "cereal" está sendo alterada para 10.
 
-Figura 8: Chamada do método modificador (setter) definindo uma nova quantidade para o produto Cereal.
+![DVCS](Prints/Mudar.png)
+
+
+![DVCS](Prints/Salvar.png)
+
+
+![DVCS](Prints/Tabela.png)
 
 ## 4. DELETE (Excluir um objeto)
 O método delete remove o registro correspondente ao objeto passado como parâmetro do banco de dados e também o retira da lista de controle em memória.
