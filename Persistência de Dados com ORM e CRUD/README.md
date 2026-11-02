@@ -50,7 +50,7 @@ Foram implementados métodos de leitura para buscar um produto específico pelo 
 
 A execução do método loadAll() retorna um ArrayList<Produto> preenchido com as informações extraídas do banco de dados, reconstruindo os objetos originais.
 
-![DVCS](Prints/ProdutosSalvos.png)
+![DVCS](Prints/Listar.png)
 
 ## 3. UPDATE (Atualizar dados de um objeto existente)
 A operação de atualização é acionada ao modificar o estado de um objeto Produto já persistido e utilizar o DAO para atualizar a linha correspondente no banco. No exemplo abaixo, a quantidade do produto "cereal" está sendo alterada para 10.
